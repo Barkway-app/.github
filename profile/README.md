@@ -32,14 +32,10 @@ We publish selected open source packages and developer tools built as part of Ba
 
 These projects usually come from real product needs - things we wanted to build properly for our own platform, then release in a form that is useful to other developers too. We aim to keep them practical, lightweight, and easy to integrate.
 
-Read more about our open source approach here:
-[Open source at Barkway](https://www.barkway.app/open-source)
-
 ## Product and company links
 
 - Website: [barkway.app](https://www.barkway.app)
-- Open source: [barkway.app/open-source](https://www.barkway.app/open-source)
-- Help docs: [help.barkway.app](https://help.barkway.app)
+- Help docs: [barkway.app/help](https://barkway.app/help)
 - Instagram: [@barkwayapp](https://instagram.com/barkway.app)
 - Facebook: [facebook.com/barkwayapp](https://facebook.com/barkwayapp)
 
